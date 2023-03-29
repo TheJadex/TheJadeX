@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Moyosore</h1>
 <h3 align="center">love to build stuffs? so do i!</h3>
 
-<p align="left"> <a href="https://twitter.com/jade_thedev" target="blank"><img src="https://img.shields.io/twitter/follow/jade_thedev?logo=twitter&style=for-the-badge" alt="jade_thedev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thejade_xx" target="blank"><img src="https://img.shields.io/twitter/follow/jade_thedev?logo=twitter&style=for-the-badge" alt="jade_thedev" /></a> </p>
 
 - 🌱 I’m currently learning and building with **Django Framework**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jade_thedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jade_thedev" height="30" width="40" /></a>
+<a href="https://twitter.com/thejade_xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jade_thedev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
